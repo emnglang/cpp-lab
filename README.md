@@ -1,1 +1,2 @@
-# cpp-lab with CLion cmake and Cygwin64
+# cpp-lab 
+Tested with CLion cmake and Cygwin64
